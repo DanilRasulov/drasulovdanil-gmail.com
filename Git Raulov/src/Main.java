@@ -1,8 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        var greeting = "343456";
-
-        greeting = "343456";
-        System.out.println(greeting);
+        int a = 12;
+        double b = 8.3;
+        System.out.println(a + b);
     }
 }
