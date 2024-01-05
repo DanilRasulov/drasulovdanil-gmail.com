@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        var greeting = "3434";
+        var greeting = "343456";
 
-        greeting = "3434";
+        greeting = "343456";
         System.out.println(greeting);
     }
 }
